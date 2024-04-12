@@ -1,0 +1,1 @@
+Developed using moden Technologies:Html and Css, Tailwindcss and Javascript
