@@ -1,0 +1,11 @@
+/*I CREATED THIS CSS FILE BECAUSE SOME CLASS DECLARED IN THE INPUTCSS 
+FILE TAILWIND IS NOT RESPONDING */
+html,body{
+    font-size: 16px;
+}
+
+
+/*faq*/
+.faq__item.open .faq__answer{
+    height: auto; 
+}

@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply text-secondary font-primary text-[16px] leading-7;
+}
+
+h1, h2, h3, h4, h5, h6{
+    @apply text-primary leading-[128%];
+}
+
